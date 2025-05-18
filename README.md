@@ -212,5 +212,5 @@ The provided Jupyter Notebook walks through these steps:
 ## Connect with Me! 🔗
 
 I'm passionate about building useful AI applications. Let's connect!
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **GitHub:** [Your GitHub Profile URL]
+*   **LinkedIn:** [https://www.linkedin.com/in/gursewak-singh-cosmic/]
+*   **GitHub:** [https://github.com/gursewak96]
